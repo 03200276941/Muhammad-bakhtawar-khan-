@@ -1,4 +1,4 @@
-
+![logo](https://github.com/03200276941/Muhammad-bakhtawar-khan-/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Muhammad Bakhtawar khan</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
